@@ -1,0 +1,5 @@
+sphinxcontrib-plantuml
+furo
+sphinx-rtd-theme
+sphinx-tabs
+guzzle_sphinx_theme
